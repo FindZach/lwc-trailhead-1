@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/findzach.lwc-la0dfhbj",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 8hQ1DfVYEu2ttIOPdf26 --open"
+  }
+}
